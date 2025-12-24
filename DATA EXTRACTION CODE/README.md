@@ -1,0 +1,9 @@
+# Distributed Financial Classification Using Fundamental and Macroeconomic Data
+
+## Dataset
+
+This project uses a large-scale dataset combining company-level fundamental ratios and macroeconomic indicators, covering approximately 146,000 observations.
+The dataset is hosted on Kaggle and was constructed by aggregating data from public financial and macroeconomic sources.
+
+🔗 Dataset link:
+https://www.kaggle.com/datasets/laxmansudhan25002/st446-macroeconomic-and-fundamental-data/data
