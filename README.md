@@ -21,22 +21,28 @@ This project addresses these challenges by combining **distributed computing** w
 ---
 
 ## Data
-The dataset integrates two complementary sources:
 
-**Firm-level fundamentals**
-- Liquidity, leverage, profitability, and valuation ratios  
+The dataset used in this project was **constructed by aggregating and aligning multiple structured data sources**, with a focus on scalability and consistency for distributed processing.
 
-**Macroeconomic indicators**
-- Growth, inflation, labour market, and interest-rate signals  
+### Data Sources
 
-**Scale**
+- **Firm-level fundamentals**  
+  Liquidity, leverage, profitability, and valuation ratios at the company level.
+
+- **Macroeconomic indicators**  
+  Growth, inflation, labour market, and interest-rate signals reflecting broader economic conditions.
+
+### Scale and Coverage
 - ~146,000 observations  
 - 42 continuous input features  
-- Monthly and quarterly frequencies  
-- Coverage: **2009–2024**
+- Monthly and quarterly data frequencies  
+- Coverage period: **2009–2024**
 
-📎 **Public dataset (Kaggle):**  
+The final, processed dataset is publicly available on Kaggle:
+
+📎 **Kaggle Dataset:**  
 https://www.kaggle.com/datasets/laxmansudhan25002/st446-macroeconomic-and-fundamental-data/data
+
 
 ---
 
