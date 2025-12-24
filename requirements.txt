@@ -1,0 +1,22 @@
+# Core data handling
+numpy
+pandas
+
+# Distributed computing
+pyspark
+
+# Machine learning
+scikit-learn
+xgboost
+lightgbm
+h2o
+
+# Model interpretability
+shap
+
+# Visualisation
+matplotlib
+seaborn
+
+# Utilities
+tqdm
